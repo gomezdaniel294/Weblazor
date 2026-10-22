@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net10.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/f48dc0e2-1da7-4d73-a198-84b64e33070f/resourceGroups/appsvc_windows_chilecentral_basic/providers/Microsoft.Web/sites/DBEmpresaGeordi"
+}
