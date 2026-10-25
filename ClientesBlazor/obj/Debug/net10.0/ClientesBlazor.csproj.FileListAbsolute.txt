@@ -83,3 +83,4 @@ C:\Users\gomez\OneDrive\Desktop\WebEmpresa2\ClientesBlazor\obj\Debug\net10.0\ref
 C:\Users\gomez\OneDrive\Desktop\WebEmpresa2\ClientesBlazor\obj\Debug\net10.0\ClientesBlazor.pdb
 C:\Users\gomez\OneDrive\Desktop\WebEmpresa2\ClientesBlazor\obj\Debug\net10.0\ClientesBlazor.genruntimeconfig.cache
 C:\Users\gomez\OneDrive\Desktop\WebEmpresa2\ClientesBlazor\obj\Debug\net10.0\ref\ClientesBlazor.dll
+C:\Users\gomez\OneDrive\Desktop\WebEmpresa2\ClientesBlazor\obj\Debug\net10.0\ClientesBlazor.sourcelink.json
